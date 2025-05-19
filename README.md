@@ -127,11 +127,11 @@ Hệ thống gồm hai phần:
 
 ## Sơ đồ người dùng
 
-![User Diagram](screenshots/user_dia.png)
+![User Diagram](screenshots/user_dia.jpg)
 
 ## Sơ đồ hệ thống
 
-![System Diagram](screenshots/system_dia.png)
+![System Diagram](screenshots/system_dia.jpg)
 
 ## 🧪 Kiểm thử & Triển khai
 
@@ -164,7 +164,7 @@ Hệ thống gồm hai phần:
 
 ### 🔍 Giao diện đăng nhập
 
-![Login Screen](screenshots/SignIn.jpg)
+![Login Screen](screenshots/SignIn.png)
 
 ### 🗺️ Giao diện bản đồ trong Làng Đại học
 
